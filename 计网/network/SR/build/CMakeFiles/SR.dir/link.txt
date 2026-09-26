@@ -1,0 +1,1 @@
+g++ CMakeFiles/SR.dir/src/SRRdt.cpp.o CMakeFiles/SR.dir/src/SRRdtReceiver.cpp.o CMakeFiles/SR.dir/src/SRRdtSender.cpp.o -o /home/dx39066812/code/SR/bin/SR  /home/dx39066812/code/SR/lib/libnetsim.a 

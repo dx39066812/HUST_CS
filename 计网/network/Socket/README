@@ -1,0 +1,3 @@
+平台 Windows 11  VSCode MSYS2的g++
+编译  g++ -std=c++17 server.cpp -o server.exe -lws2_32
+运行   ./server.exe 127.0.0.1 8080 ./wwwroot   （确保exe文件目录下有wwwroot）

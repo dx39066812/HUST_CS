@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/dx39066812/code/GBN/build",
+  "command": "g++  -I/home/dx39066812/code/GBN/include -fexec-charset=GBK -g   -std=c++11 -o CMakeFiles/GBN.dir/src/GBNRdt.cpp.o -c /home/dx39066812/code/GBN/src/GBNRdt.cpp",
+  "file": "/home/dx39066812/code/GBN/src/GBNRdt.cpp",
+  "output": "CMakeFiles/GBN.dir/src/GBNRdt.cpp.o"
+},
+{
+  "directory": "/home/dx39066812/code/GBN/build",
+  "command": "g++  -I/home/dx39066812/code/GBN/include -fexec-charset=GBK -g   -std=c++11 -o CMakeFiles/GBN.dir/src/GBNRdtReceiver.cpp.o -c /home/dx39066812/code/GBN/src/GBNRdtReceiver.cpp",
+  "file": "/home/dx39066812/code/GBN/src/GBNRdtReceiver.cpp",
+  "output": "CMakeFiles/GBN.dir/src/GBNRdtReceiver.cpp.o"
+},
+{
+  "directory": "/home/dx39066812/code/GBN/build",
+  "command": "g++  -I/home/dx39066812/code/GBN/include -fexec-charset=GBK -g   -std=c++11 -o CMakeFiles/GBN.dir/src/GBNRdtSender.cpp.o -c /home/dx39066812/code/GBN/src/GBNRdtSender.cpp",
+  "file": "/home/dx39066812/code/GBN/src/GBNRdtSender.cpp",
+  "output": "CMakeFiles/GBN.dir/src/GBNRdtSender.cpp.o"
+}
+]
